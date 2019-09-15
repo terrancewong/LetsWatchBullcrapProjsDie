@@ -22,19 +22,21 @@ Underwater / underground.
 
 ## Violation of basic engineering knowledge
 
-* Clean & oil free
+Listen to themselves, not me.
+
+* "Clean & oil free"
 
 Rubbing metal against metal without oil, good luck with that. And good luck to your other moving parts.
 
-* Smooth & graceful
+* "Smooth & graceful"
 
 Also trim something by trapping them into the mechanism.
 
-* No noise
+* "No noise"
 
 As said above, rubbing metal against metal and no noise, good luck with that.
 
-* Drive it like a car
+* "Drive it like a car"
 
 Yeah, ride a bike like a car.
 
