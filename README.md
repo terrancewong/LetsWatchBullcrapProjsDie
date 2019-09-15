@@ -1,6 +1,8 @@
 # LetsWatchBullcrapProjsDie
 
-"Let's Watch Bullcrap Projects Die"
+"Let's Watch Bullcrap Projects Die!"
+
+"Comercial/Engineering Bullcrap is not new technology!"
 
 ## Why
 
