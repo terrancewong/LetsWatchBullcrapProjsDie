@@ -6,7 +6,7 @@
 ## Timeline  
 
 * Announced: 2015
-* Fully operational: ?
+* Fully operational: ? Not a single real user review filed as Sept. 2019
 
 ## Web site(s)
 
